@@ -1,0 +1,72 @@
+body {
+  text-align: center;
+  background-color: green;
+}
+
+h1 {
+  font-size: 100px;
+  color: red;
+  font-family: 'Anton', sans-serif;
+  text-shadow: 3px 0 #DBEDF3;
+}
+
+footer {
+  color: red;
+  font-family: sans-serif;
+}
+
+.aware {
+  background-image: url("images/aware.png");
+}
+
+.awesome {
+  background-image: url("images/awesome.png");
+}
+
+.flat {
+  background-image: url("images/flat.png");
+}
+
+.hell {
+  background-image: url("images/hell.png");
+}
+
+.sweet {
+  background-image: url("images/sweet.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.chris {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  font-family: 'Anton', sans-serif;
+  line-height: 2;
+  font-weight: 100;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 350px;
+  height: 375px;
+  text-align: left;
+  margin: 10px;
+  background-color: white;
+}
